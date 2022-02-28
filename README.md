@@ -55,4 +55,4 @@
 <br />
 <br />
 
-![willianrod's wakatime stats](https://wakatime.com/badge/user/28cc1953-ad9c-4292-a9c1-13fe0f129b8d.svg)
+![willianrod's wakatime stats](https://wakatime.com/badge/user/4f8f1dc3-ec49-4e80-8591-c0cc4a7b291b.svg)
