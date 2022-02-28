@@ -48,7 +48,9 @@
 <br />
 <br />
 
- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElsongMaster&theme=bear&layout=compact&v=2)
+ <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElsongMaster&theme=bear&layout=compact&v=2) -->
+
+ <figure><embed src="https://wakatime.com/share/@28cc1953-ad9c-4292-a9c1-13fe0f129b8d/4f8f1dc3-ec49-4e80-8591-c0cc4a7b291b.svg"></embed></figure>
 
 <br />
 <br />
